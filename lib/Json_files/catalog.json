@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": "dstore01",
+            "name": "iphone 12 pro",
+            "desc": "Apple iphone 12th generation",
+            "price": 999,
+            "color":"#33505a",
+            "image":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fezone-electronics.online%2Fwp-content%2Fuploads%2F2020%2F12%2F71MHTD3uL4L._SL1500_.jpg&imgrefurl=https%3A%2F%2Fezone-electronics.online%2Fshop%2Fsmart-phones-tablets%2Fbest-battery-phones%2Fapple-iphone-12-pro%2F&tbnid=ZAdyAoZ3b17-LM&vet=12ahUKEwjirsm-kv76AhVPk9gFHd9iBiwQMygEegUIARDBAQ..i&docid=xlBYNkMxn6ND9M&w=1500&h=1500&q=iphone%2012%20pro%20images&ved=2ahUKEwjirsm-kv76AhVPk9gFHd9iBiwQMygEegUIARDBAQ"
+        },
+        {
+            "id": "dstore02",
+            "name": "Pixel 5",
+            "desc": "Google pixel phone 5th generation",
+            "price": 699,
+            "color":"#00ac51",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fonearena.com%2Fblog%2F323941%2Fgoogle-pixel-5-pixel-4a-5g-price-specifications.html&psig=AOvVaw17KvU08RmlE8JvflQ25wCL&ust=1666882697678000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIjJ3IqU_voCFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": "dstore03",
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook Air with apple silicon",
+            "price": 1099,
+            "color":"#e0bfae",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2Fwith-m1-chip&psig=AOvVaw03aBzxyhRlXaqfLpsez68l&ust=1666882867876000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPi0o9yU_voCFQAAAAAdAAAAABAS"
+        },
+        {
+            "id": "dstore04",
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color":"#544ee4",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fsony-playstation-5-22881726055.html&psig=AOvVaw3ZKmPxPVZ27zQ-0nuKjUBk&ust=1666882999421000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJCM7pqV_voCFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": "dstore05",
+            "name": "Airpods Pro",
+            "desc": "Apple Airpods Pro 1st generation",
+            "price": 200,
+            "color":"#e3e4e9",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fin%2Fshop%2Fproduct%2FMQD83HN%2FA%2Fairpods-pro&psig=AOvVaw1vjIa-BOqytIXl8ODUORn3&ust=1666883215301000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLCP5oGW_voCFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": "dstore06",
+            "name": "iPad Pro",
+            "desc": "Apple Ipad Pro 2022 edition",
+            "price": 799,
+            "color":"#f73984",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgadgets360.com%2Ftablets%2Fnews%2Fapple-ipad-pro-2022-renders-leaked-new-models-design-notch-display-thin-bezels-triple-camera-setup-2662813&psig=AOvVaw0q3-hRgH1tBXNaKzYQTPBb&ust=1666883332580000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJDy47mW_voCFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": "dstore07",
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2022 edition",
+            "price": 1299,
+            "color":"#1c1c1c",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.samsung.com%2Fin%2Fsmartphones%2Fgalaxy-s21-5g%2Fbuy%2F&psig=AOvVaw0PIiOaHQ3VrR7EU9pvxAMC&ust=1666883549168000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCODhhqGX_voCFQAAAAAdAAAAABAE"
+        },
+        {
+            "id": "dstore08",
+            "name": "Galaxy S21",
+            "desc": "Samsung Galaxy S21 2022 edition",
+            "price": 899,
+            "color":"#7c95eb",
+            "image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.samsung.com%2Fin%2Fsmartphones%2Fgalaxy-s21-5g%2Fbuy%2F&psig=AOvVaw0cKBDeCLFJ9YQ689z-nQVI&ust=1666883584351000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMDu7rGX_voCFQAAAAAdAAAAABAE"
+        }
+    ]
+}
